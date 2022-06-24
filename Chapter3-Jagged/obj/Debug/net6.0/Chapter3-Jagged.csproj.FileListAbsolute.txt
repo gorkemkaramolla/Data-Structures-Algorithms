@@ -1,0 +1,15 @@
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/bin/Debug/net6.0/Chapter3-Jagged
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/bin/Debug/net6.0/Chapter3-Jagged.deps.json
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/bin/Debug/net6.0/Chapter3-Jagged.runtimeconfig.json
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/bin/Debug/net6.0/Chapter3-Jagged.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/bin/Debug/net6.0/Chapter3-Jagged.pdb
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/Chapter3-Jagged.csproj.AssemblyReference.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/Chapter3-Jagged.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/Chapter3-Jagged.AssemblyInfoInputs.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/Chapter3-Jagged.AssemblyInfo.cs
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/Chapter3-Jagged.csproj.CoreCompileInputs.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/Chapter3-Jagged.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/refint/Chapter3-Jagged.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/Chapter3-Jagged.pdb
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/Chapter3-Jagged.genruntimeconfig.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter3-Jagged/obj/Debug/net6.0/ref/Chapter3-Jagged.dll

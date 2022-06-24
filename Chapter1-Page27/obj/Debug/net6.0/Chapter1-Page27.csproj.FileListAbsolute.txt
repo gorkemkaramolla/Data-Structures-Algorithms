@@ -1,0 +1,15 @@
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/bin/Debug/net6.0/Chapter1-Page27
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/bin/Debug/net6.0/Chapter1-Page27.deps.json
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/bin/Debug/net6.0/Chapter1-Page27.runtimeconfig.json
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/bin/Debug/net6.0/Chapter1-Page27.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/bin/Debug/net6.0/Chapter1-Page27.pdb
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/Chapter1-Page27.csproj.AssemblyReference.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/Chapter1-Page27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/Chapter1-Page27.AssemblyInfoInputs.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/Chapter1-Page27.AssemblyInfo.cs
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/Chapter1-Page27.csproj.CoreCompileInputs.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/Chapter1-Page27.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/refint/Chapter1-Page27.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/Chapter1-Page27.pdb
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/Chapter1-Page27.genruntimeconfig.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter1-Page27/obj/Debug/net6.0/ref/Chapter1-Page27.dll

@@ -1,0 +1,15 @@
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/bin/Debug/net6.0/FirstChapter
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/bin/Debug/net6.0/FirstChapter.deps.json
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/bin/Debug/net6.0/FirstChapter.runtimeconfig.json
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/bin/Debug/net6.0/FirstChapter.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/bin/Debug/net6.0/FirstChapter.pdb
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/FirstChapter.csproj.AssemblyReference.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/FirstChapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/FirstChapter.AssemblyInfoInputs.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/FirstChapter.AssemblyInfo.cs
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/FirstChapter.csproj.CoreCompileInputs.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/FirstChapter.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/refint/FirstChapter.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/FirstChapter.pdb
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/FirstChapter.genruntimeconfig.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/FirstChapter/obj/Debug/net6.0/ref/FirstChapter.dll
