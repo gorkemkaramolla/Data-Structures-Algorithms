@@ -1,0 +1,15 @@
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/Chapter4-SortingAlgorithms.csproj.AssemblyReference.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/Chapter4-SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/Chapter4-SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/Chapter4-SortingAlgorithms.AssemblyInfo.cs
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/Chapter4-SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/bin/Debug/net6.0/Chapter4-SortingAlgorithms
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/bin/Debug/net6.0/Chapter4-SortingAlgorithms.deps.json
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/bin/Debug/net6.0/Chapter4-SortingAlgorithms.runtimeconfig.json
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/bin/Debug/net6.0/Chapter4-SortingAlgorithms.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/bin/Debug/net6.0/Chapter4-SortingAlgorithms.pdb
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/Chapter4-SortingAlgorithms.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/refint/Chapter4-SortingAlgorithms.dll
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/Chapter4-SortingAlgorithms.pdb
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/Chapter4-SortingAlgorithms.genruntimeconfig.cache
+/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/Chapter4-SortingAlgorithms/obj/Debug/net6.0/ref/Chapter4-SortingAlgorithms.dll
