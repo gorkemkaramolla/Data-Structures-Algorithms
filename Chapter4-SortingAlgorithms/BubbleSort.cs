@@ -1,18 +1,37 @@
 public static class BubbleSort<T> where T : IComparable
 {
-    public static void Sort(T[] array)
+    // public static void Sort(T[] array)
+    // {
+    //     for (int i = 0; i < array.Length; i++)
+    //     {
+    //         for (int j = 0; j < array.Length - 1; j++)
+    //         {
+    //             if (array[j].CompareTo(array[j + 1]) > 0)
+    //             {
+    //                 Swap(array, j, j + 1);
+    //             }
+    //         }
+    //     }
+    // }
+    public static T[] Sort(T[] array)
     {
         for (int i = 0; i < array.Length; i++)
         {
-            // 3 14 15 17 24
+            bool isAnyChange = false;
             for (int j = 0; j < array.Length - 1; j++)
             {
                 if (array[j].CompareTo(array[j + 1]) > 0)
                 {
+                    isAnyChange = true;
                     Swap(array, j, j + 1);
                 }
             }
+            if (!isAnyChange)
+            {
+                break;
+            }
         }
+        return array;
     }
     public static void Swap(T[] array, int first, int second)
     {
@@ -21,3 +40,4 @@ public static class BubbleSort<T> where T : IComparable
         array[second] = temp;
     }
 }
+

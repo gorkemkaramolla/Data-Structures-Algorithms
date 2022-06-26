@@ -2,7 +2,6 @@ class SelectionSort<T> where T : IComparable
 {
     public static void Sort(T[] array)
     {
-
         for (int i = 0; i < array.Length; i++)
         {
             int minIndex = i;
