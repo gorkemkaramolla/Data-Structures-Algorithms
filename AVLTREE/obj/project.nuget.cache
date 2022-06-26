@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wYNyCn+FDDQFxtPuwhnvGOspZ5OeqC9W4eyfay76ZmYCdd7LdhEjG/Hi+Q1DfdLowXo2AMNKwiCbDMac4jaPLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\AVLTREE\\AVLvsBST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

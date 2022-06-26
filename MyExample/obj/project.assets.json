@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\Variants_of_Trees\\Variants_of_Trees.csproj",
+      "projectUniqueName": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\MyExample\\Variants_of_Trees.csproj",
       "projectName": "Variants_of_Trees",
-      "projectPath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\Variants_of_Trees\\Variants_of_Trees.csproj",
+      "projectPath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\MyExample\\Variants_of_Trees.csproj",
       "packagesPath": "C:\\Users\\gorke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\Variants_of_Trees\\obj\\",
+      "outputPath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\MyExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
