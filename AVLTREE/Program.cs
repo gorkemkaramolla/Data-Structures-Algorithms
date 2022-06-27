@@ -10,7 +10,7 @@ namespace Trees
 {
     class Program
     {
-        const int numberOfItems = 90003;
+        const int numberOfItems = 35000;
         private const int COLUMN_WIDTH = 5;
 
         public static void Main(string[] args)
