@@ -13,6 +13,7 @@ namespace Trees
                 this.data = data;
             }
         }
+
         Node root;
         public AVL()
         {

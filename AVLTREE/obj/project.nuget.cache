@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wYNyCn+FDDQFxtPuwhnvGOspZ5OeqC9W4eyfay76ZmYCdd7LdhEjG/Hi+Q1DfdLowXo2AMNKwiCbDMac4jaPLg==",
+  "dgSpecHash": "+JAHfjixbZugPy7vMBRWcZhwRN8IvoeKzMEbUHbSyNtgYaF4VNyBuvgW294ulp3Tfr6xKVOXMu4/6QfTLnSDig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\AVLTREE\\AVLvsBST.csproj",
+  "projectFilePath": "/Users/gorkemkaramolla/Documents/C# projeler/Data-Structures-Algorithms/AVLTREE/AVLvsBST.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gorke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+    "/Users/gorkemkaramolla/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/gorkemkaramolla/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/gorkemkaramolla/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
