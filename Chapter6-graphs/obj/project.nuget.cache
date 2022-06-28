@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7cgsnY3nDrX3rbmuj1GTreJ1ULycnZSbMmYIZiEO3xSVGBL2N8uh+4l2ARYOqmXlSLn78jH7knLJglEO2JXLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorke\\OneDrive\\Masaüstü\\mainMenuProject\\Data-Structures-Algorithms\\Chapter6-graphs\\Chapter6-graphs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorke\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

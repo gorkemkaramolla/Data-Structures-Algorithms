@@ -1,0 +1,15 @@
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\bin\Debug\net6.0\Chapter6-graphs.exe
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\bin\Debug\net6.0\Chapter6-graphs.deps.json
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\bin\Debug\net6.0\Chapter6-graphs.runtimeconfig.json
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\bin\Debug\net6.0\Chapter6-graphs.dll
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\bin\Debug\net6.0\Chapter6-graphs.pdb
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\Chapter6-graphs.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\Chapter6-graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\Chapter6-graphs.AssemblyInfoInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\Chapter6-graphs.AssemblyInfo.cs
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\Chapter6-graphs.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\Chapter6-graphs.dll
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\refint\Chapter6-graphs.dll
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\Chapter6-graphs.pdb
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\Chapter6-graphs.genruntimeconfig.cache
+C:\Users\gorke\OneDrive\Masaüstü\mainMenuProject\Data-Structures-Algorithms\Chapter6-graphs\obj\Debug\net6.0\ref\Chapter6-graphs.dll
