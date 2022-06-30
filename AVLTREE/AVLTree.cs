@@ -254,13 +254,7 @@ namespace Trees
             int b_factor = l - r;
             return b_factor;
         }
-        private Node RotateRR(Node parent)
-        {
-            Node pivot = parent.right;
-            parent.right = pivot.left;
-            pivot.left = parent;
-            return pivot;
-        }
+
         private Node RotateLL(Node parent)
         {
             Node pivot = parent.left;
@@ -279,6 +273,13 @@ namespace Trees
             Node pivot = parent.right;
             parent.right = RotateLL(pivot);
             return RotateRR(parent);
+        }
+        private Node RotateRR(Node parent)
+        {
+            Node pivot = parent.right;
+            parent.right = pivot.left;
+            pivot.left = parent;
+            return pivot;
         }
     }
 }
